@@ -1,0 +1,12 @@
+it\unitn\tonini\blocks\Stairs.class
+it\unitn\tonini\inventory\Inventory.class
+it\unitn\tonini\main\Main.class
+it\unitn\tonini\inventory\Hotbar.class
+it\unitn\tonini\blocks\Grass.class
+it\unitn\tonini\blocks\BaseBlock.class
+module-info.class
+it\unitn\tonini\inventory\Hotbar$HotbarSlot.class
+it\unitn\tonini\items\Item.class
+it\unitn\tonini\player\Player.class
+it\unitn\tonini\blocks\Air.class
+it\unitn\tonini\data\Map.class
